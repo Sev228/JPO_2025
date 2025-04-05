@@ -11,7 +11,7 @@ a{
     color: white;
 }
 body{
-    font-family: Fira Code;
+    font-family: "Fira Code", monospace;
     background-color: #e1d59b;
     color: rgb(63, 82, 46);
     line-height: 1.6;
