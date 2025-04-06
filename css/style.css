@@ -129,9 +129,18 @@ footer a{
     height: 100%;
     object-fit: cover;
 }
+.gridPhotos video{
+    width: 100%;
+    border-radius: 7px;
+    height: 100%;
+    object-fit: cover;
+}
+
 .gridPhotos img:hover{
     box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);
-
+}
+.gridPhotos video:hover{
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);
 }
 .head-grid{
     font-size: 2em;
